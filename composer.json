@@ -7,9 +7,14 @@
       "name": "David Carr",
       "email": "dave@dcblog.dev",
       "homepage": "https://dcblog.dev"
+    },
+    {
+      "name": "Brenno Ferreira",
+      "email": "brenno@brenno.dev.br",
+      "homepage": "https://brenno.dev.br"
     }
   ],
-  "homepage": "https://github.com/dcblogdev/laravel-microsoft-graph",
+  "homepage": "https://github.com/brennoferreira/laravel-microsoft-graph",
   "keywords": [
     "Laravel",
     "MsGraph",
